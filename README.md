@@ -11,4 +11,4 @@ Sources:
 * [Kenyan counties](https://counties-kenya.herokuapp.com/api/v1)
 
 ## License
-See [LICENSE](https://github.com/mledoze/countries/blob/master/LICENSE).
+See [LICENSE](https://github.com/yusuf-khamis/countries/blob/master/LICENSE).
