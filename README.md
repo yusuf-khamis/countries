@@ -1,6 +1,10 @@
 # List of world countries, their states, cities, dial codes and currencies
 
-This is solely created and customized to my personal projects
+This is solely created and customized for my personal projects but is free to use to anyone.
+I won't be making any breaking changes to any of this data.
+
+## How to use
+`GET` request to https://raw.githubusercontent.com/yusuf-khamis/countries/master/data.json
 
 Sources:
 
