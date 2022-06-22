@@ -8,4 +8,7 @@ Sources:
 * [Countriesnow.space - cities](https://countriesnow.space/api/v0.1/countries)
 * [Countriesnow.space - states](https://countriesnow.space/api/v0.1/countries/states)
 * [Countriesnow.space - codes](https://countriesnow.space/api/v0.1/countries/codes)
-* [Countriesnow.space - currencies](https://countriesnow.space/api/v0.1/countries/currency)
+* [Kenyan counties](https://counties-kenya.herokuapp.com/api/v1)
+
+## License
+See [LICENSE](https://github.com/mledoze/countries/blob/master/LICENSE).
