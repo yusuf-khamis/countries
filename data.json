@@ -36,7 +36,12 @@
     "callingCodes": [
       "+297"
     ],
-    "states": []
+    "states": [
+      {
+        "name": "Oranjestad",
+        "code": "ABW"
+      }
+    ]
   },
   {
     "name": "Afghanistan",
@@ -364,7 +369,12 @@
     "callingCodes": [
       "+1 264"
     ],
-    "states": []
+    "states": [
+      {
+        "name": "The Valley",
+        "code": "AIA"
+      }
+    ]
   },
   {
     "name": "Åland Islands",
@@ -392,7 +402,12 @@
     "callingCodes": [
       "+35818"
     ],
-    "states": []
+    "states": [
+      {
+        "name": "Mariehamn",
+        "code": "ALA"
+      }
+    ]
   },
   {
     "name": "Albania",
@@ -1565,7 +1580,12 @@
     "callingCodes": [
       "+1 684"
     ],
-    "states": []
+    "states": [
+      {
+        "name": "Pago Pago",
+        "code": "ASM"
+      }
+    ]
   },
   {
     "name": "Antarctica",
@@ -1609,7 +1629,12 @@
     "callingCodes": [
       "+262"
     ],
-    "states": []
+    "states": [
+      {
+        "name": "Port-aux-Français",
+        "code": "ATF"
+      }
+    ]
   },
   {
     "name": "Antigua and Barbuda",
@@ -8309,7 +8334,12 @@
     "callingCodes": [
       "+590"
     ],
-    "states": []
+    "states": [
+      {
+        "name": "Gustavia",
+        "code": "BLM"
+      }
+    ]
   },
   {
     "name": "Saint Helena, Ascension and Tristan da Cunha",
@@ -8342,7 +8372,12 @@
     "callingCodes": [
       "+290"
     ],
-    "states": []
+    "states": [
+      {
+        "name": "Jamestown",
+        "code": "SHN"
+      }
+    ]
   },
   {
     "name": "Belarus",
@@ -13527,7 +13562,12 @@
     "callingCodes": [
       "+61"
     ],
-    "states": []
+    "states": [
+      {
+        "name": "West Island",
+        "code": "CCK"
+      }
+    ]
   },
   {
     "name": "Switzerland",
@@ -17623,7 +17663,12 @@
     "callingCodes": [
       "+682"
     ],
-    "states": []
+    "states": [
+      {
+        "name": "Avarua",
+        "code": "COK"
+      }
+    ]
   },
   {
     "name": "Colombia",
@@ -18320,7 +18365,10 @@
       "+599"
     ],
     "states": [
-      "Willemstad"
+      {
+        "name": "Willemstad",
+        "code": "CUW"
+      }
     ]
   },
   {
@@ -18352,7 +18400,12 @@
     "callingCodes": [
       "+61"
     ],
-    "states": []
+    "states": [
+      {
+        "name": "Flying Fish Cove",
+        "code": "CXR"
+      }
+    ]
   },
   {
     "name": "Cayman Islands",
@@ -18386,7 +18439,12 @@
     "callingCodes": [
       "+1345"
     ],
-    "states": []
+    "states": [
+      {
+        "name": "George Town",
+        "code": "CYM"
+      }
+    ]
   },
   {
     "name": "Cyprus",
@@ -28836,7 +28894,12 @@
     "callingCodes": [
       "+732"
     ],
-    "states": []
+    "states": [
+      {
+        "name": "El Aaiún",
+        "code": "ESH"
+      }
+    ]
   },
   {
     "name": "Spain",
@@ -32554,7 +32617,12 @@
     "callingCodes": [
       "+500"
     ],
-    "states": []
+    "states": [
+      {
+        "name": "Stanley",
+        "code": "FLK"
+      }
+    ]
   },
   {
     "name": "France",
@@ -45336,7 +45404,12 @@
     "callingCodes": [
       "+298"
     ],
-    "states": []
+    "states": [
+      {
+        "name": "Tórshavn",
+        "code": "FRO"
+      }
+    ]
   },
   {
     "name": "Micronesia",
@@ -49521,7 +49594,12 @@
     "callingCodes": [
       "+44"
     ],
-    "states": []
+    "states": [
+      {
+        "name": "St. Peter Port",
+        "code": "GGY"
+      }
+    ]
   },
   {
     "name": "Ghana",
@@ -49668,7 +49746,12 @@
     "callingCodes": [
       "+350"
     ],
-    "states": []
+    "states": [
+      {
+        "name": "Gibraltar",
+        "code": "GIB"
+      }
+    ]
   },
   {
     "name": "Guinea",
@@ -49919,7 +50002,12 @@
     "callingCodes": [
       "+590"
     ],
-    "states": []
+    "states": [
+      {
+        "name": "Basse-Terre",
+        "code": "GLP"
+      }
+    ]
   },
   {
     "name": "Gambia",
@@ -50584,7 +50672,12 @@
     "callingCodes": [
       "+299"
     ],
-    "states": []
+    "states": [
+      {
+        "name": "Nuuk",
+        "code": "GRL"
+      }
+    ]
   },
   {
     "name": "Guatemala",
@@ -50768,7 +50861,10 @@
       "+594"
     ],
     "states": [
-      "Cayenne"
+      {
+        "name": "Cayenne",
+        "code": "GUF"
+      }
     ]
   },
   {
@@ -50804,7 +50900,12 @@
     "callingCodes": [
       "+1 671"
     ],
-    "states": []
+    "states": [
+      {
+        "name": "Hagåtña",
+        "code": "GUM"
+      }
+    ]
   },
   {
     "name": "Guyana",
@@ -50992,7 +51093,12 @@
     "callingCodes": [
       "+852"
     ],
-    "states": []
+    "states": [
+      {
+        "name": "City of Victoria",
+        "code": "HKG"
+      }
+    ]
   },
   {
     "name": "Heard Island and McDonald Islands",
@@ -52888,7 +52994,12 @@
     "callingCodes": [
       "+44"
     ],
-    "states": []
+    "states": [
+      {
+        "name": "Douglas",
+        "code": "IMN"
+      }
+    ]
   },
   {
     "name": "India",
@@ -54115,7 +54226,12 @@
     "callingCodes": [
       "+246"
     ],
-    "states": []
+    "states": [
+      {
+        "name": "Diego Garcia",
+        "code": "IOT"
+      }
+    ]
   },
   {
     "name": "Ireland",
@@ -60404,7 +60520,12 @@
     "callingCodes": [
       "+44"
     ],
-    "states": []
+    "states": [
+      {
+        "name": "Saint Helier",
+        "code": "JEY"
+      }
+    ]
   },
   {
     "name": "Jordan",
@@ -64986,7 +65107,12 @@
     "callingCodes": [
       "+590"
     ],
-    "states": []
+    "states": [
+      {
+        "name": "Marigot",
+        "code": "MAF"
+      }
+    ]
   },
   {
     "name": "Morocco",
@@ -65336,7 +65462,12 @@
     "callingCodes": [
       "+377"
     ],
-    "states": []
+    "states": [
+      {
+        "name": "Monaco",
+        "code": "MCO"
+      }
+    ]
   },
   {
     "name": "Moldova",
@@ -67862,7 +67993,12 @@
     "callingCodes": [
       "+1 670"
     ],
-    "states": []
+    "states": [
+      {
+        "name": "Saipan",
+        "code": "MNP"
+      }
+    ]
   },
   {
     "name": "Mozambique",
@@ -68094,7 +68230,12 @@
     "callingCodes": [
       "+1664"
     ],
-    "states": []
+    "states": [
+      {
+        "name": "Plymouth",
+        "code": "MSR"
+      }
+    ]
   },
   {
     "name": "Martinique",
@@ -68139,7 +68280,12 @@
     "callingCodes": [
       "+596"
     ],
-    "states": []
+    "states": [
+      {
+        "name": "Fort-de-France",
+        "code": "MTQ"
+      }
+    ]
   },
   {
     "name": "Mauritius",
@@ -68832,7 +68978,12 @@
     "callingCodes": [
       "+262"
     ],
-    "states": []
+    "states": [
+      {
+        "name": "Mamoudzou",
+        "code": "MYT"
+      }
+    ]
   },
   {
     "name": "Namibia",
@@ -68977,7 +69128,12 @@
     "callingCodes": [
       "+687"
     ],
-    "states": []
+    "states": [
+      {
+        "name": "Nouméa",
+        "code": "NCL"
+      }
+    ]
   },
   {
     "name": "Niger",
@@ -69113,7 +69269,12 @@
     "callingCodes": [
       "+672"
     ],
-    "states": []
+    "states": [
+      {
+        "name": "Kingston",
+        "code": "NFK"
+      }
+    ]
   },
   {
     "name": "Nigeria",
@@ -69519,7 +69680,12 @@
     "callingCodes": [
       "+683"
     ],
-    "states": []
+    "states": [
+      {
+        "name": "Alofi",
+        "code": "NIU"
+      }
+    ]
   },
   {
     "name": "Netherlands",
@@ -72967,7 +73133,12 @@
     "callingCodes": [
       "+870"
     ],
-    "states": []
+    "states": [
+      {
+        "name": "Adamstown",
+        "code": "PCN"
+      }
+    ]
   },
   {
     "name": "Peru",
@@ -76029,7 +76200,12 @@
     "callingCodes": [
       "+1 939"
     ],
-    "states": []
+    "states": [
+      {
+        "name": "San Juan",
+        "code": "PRI"
+      }
+    ]
   },
   {
     "name": "North Korea",
@@ -77057,7 +77233,12 @@
     "callingCodes": [
       "+970"
     ],
-    "states": []
+    "states": [
+      {
+        "name": "Ramallah",
+        "code": "PSE"
+      }
+    ]
   },
   {
     "name": "French Polynesia",
@@ -77091,7 +77272,12 @@
     "callingCodes": [
       "+689"
     ],
-    "states": []
+    "states": [
+      {
+        "name": "Papeetē",
+        "code": "PYF"
+      }
+    ]
   },
   {
     "name": "Qatar",
@@ -77202,7 +77388,12 @@
     "callingCodes": [
       "+262"
     ],
-    "states": []
+    "states": [
+      {
+        "name": "Saint-Denis",
+        "code": "REU"
+      }
+    ]
   },
   {
     "name": "Romania",
@@ -79612,7 +79803,12 @@
     "callingCodes": [
       "+500"
     ],
-    "states": []
+    "states": [
+      {
+        "name": "King Edward Point",
+        "code": "SGS"
+      }
+    ]
   },
   {
     "name": "Svalbard and Jan Mayen",
@@ -79640,7 +79836,12 @@
     "callingCodes": [
       "+47"
     ],
-    "states": []
+    "states": [
+      {
+        "name": "Longyearbyen",
+        "code": "SJM"
+      }
+    ]
   },
   {
     "name": "Solomon Islands",
@@ -80108,7 +80309,12 @@
     "callingCodes": [
       "+508"
     ],
-    "states": []
+    "states": [
+      {
+        "name": "Saint-Pierre",
+        "code": "SPM"
+      }
+    ]
   },
   {
     "name": "Serbia",
@@ -83244,7 +83450,10 @@
       "+1721"
     ],
     "states": [
-      "Philipsburg"
+      {
+        "name": "Philipsburg",
+        "code": "SXM"
+      }
     ]
   },
   {
@@ -83553,7 +83762,12 @@
     "callingCodes": [
       "+1 649"
     ],
-    "states": []
+    "states": [
+      {
+        "name": "Cockburn Town",
+        "code": "TCA"
+      }
+    ]
   },
   {
     "name": "Chad",
@@ -84321,7 +84535,12 @@
     "callingCodes": [
       "+690"
     ],
-    "states": []
+    "states": [
+      {
+        "name": "Fakaofo",
+        "code": "TKL"
+      }
+    ]
   },
   {
     "name": "Turkmenistan",
@@ -101047,7 +101266,12 @@
     "callingCodes": [
       "+379"
     ],
-    "states": []
+    "states": [
+      {
+        "name": "Vatican City",
+        "code": "VAT"
+      }
+    ]
   },
   {
     "name": "Saint Vincent and the Grenadines",
@@ -101446,7 +101670,12 @@
     "callingCodes": [
       "+1 284"
     ],
-    "states": []
+    "states": [
+      {
+        "name": "Road Town",
+        "code": "VGB"
+      }
+    ]
   },
   {
     "name": "United States Virgin Islands",
@@ -101474,7 +101703,12 @@
     "callingCodes": [
       "+1 340"
     ],
-    "states": []
+    "states": [
+      {
+        "name": "Charlotte Amalie",
+        "code": "VIR"
+      }
+    ]
   },
   {
     "name": "Vietnam",
@@ -101989,7 +102223,12 @@
     "callingCodes": [
       "+681"
     ],
-    "states": []
+    "states": [
+      {
+        "name": "Mata-Utu",
+        "code": "WLF"
+      }
+    ]
   },
   {
     "name": "Samoa",

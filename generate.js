@@ -70,14 +70,6 @@ function downloadFlag(iso3) {
   });
 
   const result = countries.map(country => {
-    if (!citiesMapped[country.cca2]) {
-      console.log('cities', country.cca2);
-    }
-
-    if (!statesMapped[country.cca2]) {
-      console.log('states', country.cca2);
-    }
-
     const item = {
       name: country.name.common,
       iso2: country.cca2,
@@ -100,12 +92,19 @@ function downloadFlag(iso3) {
       item.states = counties.map(county => ({
         name: county.name,
         code: county.code,
-      }))
+      }));
     } else {
-      item.states = statesMapped[country.cca2]?.states.map(state => ({
-        name: state.name,
-        code: state.state_code,
-      })) ?? item.capital;
+      if (statesMapped[country.cca2]?.states.length) {
+        item.states = statesMapped[country.cca2]?.states.map(state => ({
+          name: state.name,
+          code: state.state_code,
+        }));
+      } else {
+        item.states = item.capital.map(capital => ({
+          name: capital,
+          code: item.iso3,
+        }));
+      }
     }
 
     downloadFlag(country.cca3);
